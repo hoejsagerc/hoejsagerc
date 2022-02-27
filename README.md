@@ -1,7 +1,12 @@
 ### Hi, my name is Christian - aka [ScriptingChris][website] 👋 
 
-
 <br />
+
+Be sure to check out my resume website, which i build with DevOps practices and is currently hosting on Azure: https://hoejsager.com.
+
+If you want to check out some of the Github projects i have been working on you will find them on my Github Organization: https://github.com/orgs/ScriptingChris/
+
+</br>
 
 ### Gaining DevOps knowledge
 
