@@ -1,16 +1,16 @@
 ### Hi, my name is Christian - aka [ScriptingChris][website] 👋 
 
-&nbsp;
+<br/>
 
 ### Website
 Be sure to check out my Web app: https://scriptingchris.tech, which i build from scratch using Python and with DevOps practices in mind. The Web app is build with a docker images running the frontend and is hosted in Azure App Services. The frontend is connected to the Backend build with Azure Functions, Azure API Management, and Azure Cosmos DB. The entire project is build in Azure with Bicep for Infrastructure as Code. And of course the entire build & Deployment process is automated with Github Actions pipelines
 
-&nbsp;
+<br/>
 
 ### Code Repositories
 Now all public code repositories and projects i have build will be located in my Organization Github. Go check it out here: https://github.com/scriptingchris
 
-&nbsp;
+<br/>
 
 ### Gaining DevOps knowledge
 
@@ -32,7 +32,7 @@ I spend most of my spare time, learning about devops technologies. At the moment
 <img align="left" alt="kubernetes" width="32px" src="img/kubernetes.png"/>
 <img align="left" alt="terraform" width="32px" src="img/terraform.png"/>
 
-&nbsp;
+<br/>
 
 ### Goals for 2022
 
@@ -46,7 +46,7 @@ My goals for the year 2022 is to gain the following certifications:
 - ⭐ AZ-400 - Designing and Implementing Microsoft DevOps Solutions
 
 
-&nbsp;
+<br/>
 
 ### Certifications
 
@@ -54,7 +54,7 @@ My goals for the year 2022 is to gain the following certifications:
 <img align="left" alt="eLearn security ejpt" width="100px" src="img/azure900-cert.png"/>
 <img align="left" alt="eLearn security ejpt" width="100px" src="img/microsoft365-security-administrator-associate-600x600.png"/>
 
-&nbsp;
+<br/>
 
 
 ### Connect with me:
@@ -64,7 +64,7 @@ My goals for the year 2022 is to gain the following certifications:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-&nbsp;
+<br/>
 
 <!--
 ### 📕 Latest Blog Posts
