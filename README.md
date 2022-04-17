@@ -39,13 +39,19 @@ I spend most of my spare time, learning about devops technologies. At the moment
 
 My goals for the year 2022 is to gain the following certifications:
 
-- ⭐ CJE: Certified Jenkins Engineer
-- ⭐ CKA: Certified Kubernetes Administrator
-- ⭐ AZ-900: Microsoft Azure Fundamentals
-- ⭐ AZ-204: Developing Solutions for Microsoft Azure
-- ⭐ AZ-400: Designing and Implementing Microsoft DevOps Solutions
+
+
+- ⭐ AZ-900 - Azure Fundamentals ✅
+- ⭐ AZ-104 - Azure Administrator
+- ⭐ AZ-204 - Developing Solutions for Microsoft Azure
+- ⭐ AZ-400 - Designing and Implementing Microsoft DevOps Solutions
+
 
 <br />
+
+### Certifications
+
+
 
 ### Connect with me:
 
