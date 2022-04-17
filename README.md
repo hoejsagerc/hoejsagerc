@@ -36,6 +36,14 @@ I spend most of my spare time, learning about devops technologies. At the moment
 <br/>
 <br/>
 
+
+## Certifications
+
+<img align="left" alt="eLearn security ejpt" width="100px" src="img/eJPT-cert.png"/>
+<img align="left" alt="Microsoft Azure AZ-900" width="100px" src="img/azure900-cert.png"/>
+<img align="left" alt="Microsot 365 MS-500" width="100px" src="img/microsoft365-security-administrator-associate-600x600.png"/>
+
+
 ## Goals for 2022
 
 My goals for the year 2022 is to gain the following certifications:
@@ -44,16 +52,6 @@ My goals for the year 2022 is to gain the following certifications:
 - ⭐ AZ-104 - Azure Administrator
 - ⭐ AZ-204 - Developing Solutions for Microsoft Azure
 - ⭐ AZ-400 - Designing and Implementing Microsoft DevOps Solutions
-
-<br/>
-<br/>
-
-
-## Certifications
-
-<img align="left" alt="eLearn security ejpt" width="100px" src="img/eJPT-cert.png"/>
-<img align="left" alt="Microsoft Azure AZ-900" width="100px" src="img/azure900-cert.png"/>
-<img align="left" alt="Microsot 365 MS-500" width="100px" src="img/microsoft365-security-administrator-associate-600x600.png"/>
 
 
 <br/>
