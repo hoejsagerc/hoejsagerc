@@ -53,7 +53,7 @@ My goals for the year 2022 is to gain the following certifications:
 
 ## Certifications
 
-<img align="left" alt="eLearn security ejpt" width="100px" src="img/eJPT-cert.png"/>
+<img align="left" alt="eLearn security ejpt" width="110px" src="img/eJPT-cert.png"/>
 <img align="left" alt="Microsoft Azure AZ-900" width="100px" src="img/azure900-cert.png"/>
 <img align="left" alt="Microsot 365 MS-500" width="100px" src="img/microsoft365-security-administrator-associate-600x600.png"/>
 
