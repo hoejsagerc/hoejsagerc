@@ -51,6 +51,7 @@ My goals for the year 2022 is to gain the following certifications:
 
 ### Certifications
 
+<img align="left" alt="eLearn security ejpt" width="50px" src="img/eJPT-cert.png"/>
 
 
 ### Connect with me:
