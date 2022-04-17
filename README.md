@@ -33,6 +33,7 @@ I spend most of my spare time, learning about devops technologies. At the moment
 <img align="left" alt="terraform" width="32px" src="img/terraform.png"/>
 
 <br/>
+<br/>
 
 ### Goals for 2022
 
@@ -45,12 +46,6 @@ My goals for the year 2022 is to gain the following certifications:
 - ⭐ AZ-204 - Developing Solutions for Microsoft Azure
 - ⭐ AZ-400 - Designing and Implementing Microsoft DevOps Solutions
 
-
-<pre>
-
-
-
-</pre>
 
 ### Certifications
 
