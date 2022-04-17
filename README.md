@@ -63,7 +63,6 @@ My goals for the year 2022 is to gain the following certifications:
 <br/>
 <br/>
 <br/>
-<br/>
 
 ## Connect with me:
 
