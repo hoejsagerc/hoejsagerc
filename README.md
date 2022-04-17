@@ -46,7 +46,11 @@ My goals for the year 2022 is to gain the following certifications:
 - ⭐ AZ-400 - Designing and Implementing Microsoft DevOps Solutions
 
 
-<br/>
+<pre>
+
+
+
+</pre>
 
 ### Certifications
 
