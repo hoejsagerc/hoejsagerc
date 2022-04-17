@@ -2,7 +2,7 @@
 
 <br />
 
-Be sure to check out my resume website, which i build with DevOps practices and is currently hosting on Azure: https://hoejsager.com.
+Be sure to check out my Web app: https://scriptingchris.tech, which i build from scratch using Python and with DevOps practices in mind. The Web app is build with a docker images running the frontend and is hosted in Azure App Services. The frontend is connected to the Backend build with Azure Functions, Azure API Management, and Azure Cosmos DB. The entire project is build in Azure with Bicep for Infrastructure as Code. And of course the entire build & Deployment process is automated with Github Actions pipelines
 
 If you want to check out some of the Github projects i have been working on you will find them on my Github Organization: https://github.com/orgs/ScriptingChris/
 
