@@ -32,7 +32,7 @@ I spend most of my spare time, learning about devops technologies. At the moment
 <img align="left" alt="kubernetes" width="32px" src="img/kubernetes.png"/>
 <img align="left" alt="terraform" width="32px" src="img/terraform.png"/>
 
-</br>
+<br>
 
 ### Goals for 2022
 
