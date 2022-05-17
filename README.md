@@ -75,14 +75,13 @@ My goals for the year 2022 is to gain the following certifications:
 
 ### 📕 Latest Blog Posts
 
- BLOG-POST-LIST:START
+<!-- BLOG-POST-LIST:START -->
 - [Using a Raspberry Pi Kubernetes Cluster to help fight COVID-19 with Rosetta@Home](https://scriptingchris.tech/2022/01/15/running-rosettahome-on-raspberry-pi-kubernetes-cluster/)
 - [Setting up a Raspberry Pi Kubernetes Cluster](https://scriptingchris.tech/2022/01/15/setting-up-a-raspberry-pi-kubernetes-cluster/)
 - [Book Review: Windows Server Automation with PowerShell Cookbook](https://scriptingchris.tech/2021/10/22/book-review-windows-server-automation-with-powershell-cookbook/)
 - [How to handle API Pagination with PowerShell](https://scriptingchris.tech/2021/10/11/handling-api-pagination-with-powershell/)
 - [How To Setup a Private Powershell Repository](https://scriptingchris.tech/2021/08/31/how-to-setup-a-private-powershell-repository/)
-
-
+<!-- BLOG-POST-LIST:END -->
 
 
 [website]: https://scriptingchris.tech
