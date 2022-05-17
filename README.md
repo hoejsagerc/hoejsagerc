@@ -72,7 +72,7 @@ My goals for the year 2022 is to gain the following certifications:
 
 <br/>
 
-<!--
+
 ### 📕 Latest Blog Posts
 
  BLOG-POST-LIST:START
@@ -81,7 +81,7 @@ My goals for the year 2022 is to gain the following certifications:
 - [Book Review: Windows Server Automation with PowerShell Cookbook](https://scriptingchris.tech/2021/10/22/book-review-windows-server-automation-with-powershell-cookbook/)
 - [How to handle API Pagination with PowerShell](https://scriptingchris.tech/2021/10/11/handling-api-pagination-with-powershell/)
 - [How To Setup a Private Powershell Repository](https://scriptingchris.tech/2021/08/31/how-to-setup-a-private-powershell-repository/)
-BLOG-POST-LIST:END -->
+
 
 
 
