@@ -76,11 +76,11 @@ My goals for the year 2022 is to gain the following certifications:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using a Raspberry Pi Kubernetes Cluster to help fight COVID-19 with Rosetta@Home](https://scriptingchris.tech/2022/01/15/running-rosettahome-on-raspberry-pi-kubernetes-cluster/)
-- [Setting up a Raspberry Pi Kubernetes Cluster](https://scriptingchris.tech/2022/01/15/setting-up-a-raspberry-pi-kubernetes-cluster/)
-- [Book Review: Windows Server Automation with PowerShell Cookbook](https://scriptingchris.tech/2021/10/22/book-review-windows-server-automation-with-powershell-cookbook/)
-- [How to handle API Pagination with PowerShell](https://scriptingchris.tech/2021/10/11/handling-api-pagination-with-powershell/)
-- [How To Setup a Private Powershell Repository](https://scriptingchris.tech/2021/08/31/how-to-setup-a-private-powershell-repository/)
+- [How I Setup My Powershell Development Environment](https://scriptingchris.tech/posts/how-i-setup-my-powershell-development-environment/)
+- [Using Azure Functions and Azure Api Management to Host Yout Api Serverless](https://scriptingchris.tech/posts/using-azure-functions-and-azure-api-management-to-host-yout-api-serverless/)
+- [Using a Raspberry Pi Kubernetes Cluster to Help Fight Covid19 With Rosettaathome](https://scriptingchris.tech/posts/using-a-raspberry-pi-kubernetes-cluster-to-help-fight-covid19-with-rosettaathome/)
+- [Setting Up a Raspberry Pi Kubernetes Cluster](https://scriptingchris.tech/posts/setting-up-a-raspberry-pi-kubernetes-cluster/)
+- [How to Handle Api Pagination With Powershell](https://scriptingchris.tech/posts/how-to-handle-api-pagination-with-powershell/)
 <!-- BLOG-POST-LIST:END -->
 
 
