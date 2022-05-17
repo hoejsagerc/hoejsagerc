@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@1.6.7
         with:
-          feed_list: "https://scriptingchris.tech/feed/"
+          feed_list: "https://scriptingchris.tech/index.xml"
