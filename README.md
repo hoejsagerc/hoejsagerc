@@ -1,89 +1,57 @@
-# Hi, my name is Christian - aka [ScriptingChris][website] 👋 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Højsager
+==========================================================================================================================================
 
-<br/>
+Cloud Solution Specialist
+-------------------------
+I am a primarily self taught Solution Specialist. I work as a Cloud Solution Consultant in my daily job, but most of my spare time is spent learning and playing with DevOps technologies such as Kubernetes and CI/CD technologies. I have learned my self to code in PowerShell, Python, Bash and at the moment working on learning Go.
 
-## Website
-Be sure to check out my Web app: https://scriptingchris.tech, which i build from scratch using Python and with DevOps practices in mind. The Web app is build with a docker images running the frontend and is hosted in Azure App Services. The frontend is connected to the Backend build with Azure Functions, Azure API Management, and Azure Cosmos DB. The entire project is build in Azure with Bicep for Infrastructure as Code. And of course the entire build & Deployment process is automated with Github Actions pipelines
+</br>
+</br>
 
-<br/>
+* 🌍  I'm based in Denmark
+* ✉️  You can contact me at [https://twitter.com/c\_hoejsager](mailto:https://twitter.com/c_hoejsager)
+* 🚀  I'm currently working on [An API writing in Python FastAPI, for scheduling and searching houses for sale in Denmark](http://boligtracker.dk)
+* 🧠  I'm learning Kubernetes, ArgoCD, Golang
+* 🤝  I'm open to collaborating on - Interesting Python: FastAPI or Flask application projects
+* ⚡  Because of my work as a Consultant I spent most of my time working and developing solutions on Microsoft Azure
 
-## Code Repositories
-Now all public code repositories and projects i have build will be located in my Organization Github. Go check it out here: https://github.com/scriptingchris
+</br>
+</br>
 
-<br/>
+### Socials
 
-## Gaining DevOps knowledge
+<p align="left"> <a href="https://www.github.com/hoejsagerc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hoejsager" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/c_hoejsager" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-In my daily job i work with administrating a hybrid environment containing, Windows, Linux, Azure and Microsoft 365.
+</br>
+</br>
 
-I try to automate as much as possible, and for automations i rely PowerShell and Python, using Azure DevOps Pipelines, Azure Automations and Azure functions for running the automations.
+### Certifications
 
-I spend most of my spare time, learning about devops technologies. At the moment i am learning the following technologies:
-
-- Azure
-- Jenkins
-- Ansible
-- Kubernetes
-- Terraform
-
-<img align="left" alt="azure" width="32px" src="img/azure.png"/>
-<img align="left" alt="jenkins" width="32px" src="img/jenkins.png"/>
-<img align="left" alt="ansible" width="32px" src="img/ansible.png"/>
-<img align="left" alt="kubernetes" width="32px" src="img/kubernetes.png"/>
-<img align="left" alt="terraform" width="32px" src="img/terraform.png"/>
-
-<br/>
-<br/>
-<br/>
-
-
-## Goals for 2022
-
-My goals for the year 2022 is to gain the following certifications:
-
-- ⭐ AZ-900 - Azure Fundamentals ✅
-- ⭐ AZ-104 - Azure Administrator
-- ⭐ AZ-204 - Developing Solutions for Microsoft Azure
-- ⭐ AZ-400 - Designing and Implementing Microsoft DevOps Solutions
-
+<img align="left" alt="eLearn security ejpt" width="110px" src="img/cert-eJPT.png"/>
+<img align="left" alt="Microsoft Azure AZ-900" width="100px" src="img/cert-az900.png"/>
+<img align="left" alt="Microsot 365 MS-500" width="100px" src="img/cert-ms500.png"/>
+<img align="left" alt="Microsot Azure AZ-104" width="100px" src="img/cert-az104.png"/>
+<img align="left" alt="Microsot Azure AZ-204" width="100px" src="img/cert-az204.png"/>
 
 <br/>
 <br/>
 
+### Badges
 
-## Certifications
+<b>My GitHub Stats</b>
 
-<img align="left" alt="eLearn security ejpt" width="110px" src="img/eJPT-cert.png"/>
-<img align="left" alt="Microsoft Azure AZ-900" width="100px" src="img/azure900-cert.png"/>
-<img align="left" alt="Microsot 365 MS-500" width="100px" src="img/microsoft365-security-administrator-associate-600x600.png"/>
+<a href="http://www.github.com/hoejsagerc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoejsagerc&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="http://www.github.com/hoejsagerc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hoejsagerc&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-<br/>
-
-
-### 📕 Latest Blog Posts
+<!--### 📕 Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Powershell Automation Scheduling App With Azure and Microsoft Powerapps](https://scriptingchris.tech/posts/creating-a-powershell-automation-scheduling-app-with-azure-and-microsoft-powerapps/)
+<!--- [Creating a Powershell Automation Scheduling App With Azure and Microsoft Powerapps](https://scriptingchris.tech/posts/creating-a-powershell-automation-scheduling-app-with-azure-and-microsoft-powerapps/)
 - [How I Setup My Powershell Development Environment](https://scriptingchris.tech/posts/how-i-setup-my-powershell-development-environment/)
 - [Using Azure Functions and Azure Api Management to Host Yout Api Serverless](https://scriptingchris.tech/posts/using-azure-functions-and-azure-api-management-to-host-yout-api-serverless/)
 - [Using a Raspberry Pi Kubernetes Cluster to Help Fight Covid19 With Rosettaathome](https://scriptingchris.tech/posts/using-a-raspberry-pi-kubernetes-cluster-to-help-fight-covid19-with-rosettaathome/)
 - [Setting Up a Raspberry Pi Kubernetes Cluster](https://scriptingchris.tech/posts/setting-up-a-raspberry-pi-kubernetes-cluster/)
+-->
 <!-- BLOG-POST-LIST:END -->
-
-
-[website]: https://scriptingchris.tech
-[twitter]: https://twitter.com/_ScriptingChris
-[linkedin]: https://linkedin.com/in/hoejsager
