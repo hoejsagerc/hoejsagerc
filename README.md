@@ -37,6 +37,8 @@ I am a primarily self taught Solution Specialist. I work as a Cloud Solution Con
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### Badges:
 
