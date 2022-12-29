@@ -20,7 +20,8 @@ I am a primarily self taught Solution Specialist. I work as a Cloud Solution Con
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,azure,bash,bootstrap,cloudflare,css,django,docker,fastapi,flask,html,kubernetes,linux,mysql,powershell,py,raspberrypi&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,cloudflare,ansible,kubernetes,linux,raspberrypi,mysql,docker,flask,fastapi,django,css,bootstrap,html,py,powershell,bash&theme=light)](https://skillicons.dev)
+
 
 </br>
 </br>
