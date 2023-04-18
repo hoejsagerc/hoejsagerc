@@ -10,7 +10,7 @@ I am a primarily self taught Solution Specialist. I work as a Cloud Solution Con
 
 * 🌍  I'm based in Denmark
 * ✉️  You can contact me at [https://twitter.com/c\_hoejsager](mailto:https://twitter.com/c_hoejsager)
-* 🚀  I'm currently working on [An API writing in Python FastAPI, for scheduling and searching houses for sale in Denmark](http://boligtracker.dk)
+* 🚀  I'm currently working on building a Community Site for learning and working with Infrastructure As Code on Azure.
 * 🧠  I'm learning Kubernetes, ArgoCD, Golang
 * 🤝  I'm open to collaborating on - Interesting Python: FastAPI or Flask application projects
 * ⚡  Because of my work as a Consultant I spent most of my time working and developing solutions on Microsoft Azure
